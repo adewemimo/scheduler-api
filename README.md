@@ -125,3 +125,5 @@ Response:
   }
 }
 ```
+
+TablePlus can be installed to look into the tables in the database.
